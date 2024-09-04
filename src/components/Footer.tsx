@@ -23,7 +23,7 @@ const Footer: React.FunctionComponent = () => {
                 <li className="ms-3">
                     <a
                         className='text-body-secondary'
-                        href='https://www.google.com.br/'
+                        href='https://github.com/mateusherrera'
                     >
                         <span
                             className='bi bi-github'
@@ -34,7 +34,7 @@ const Footer: React.FunctionComponent = () => {
                 <li className="ms-3">
                     <a
                         className='text-body-secondary'
-                        href='https://www.google.com.br/'
+                        href='https://www.linkedin.com/in/mateusherrera'
                     >
                         <span
                             className='bi bi-linkedin'
@@ -45,7 +45,7 @@ const Footer: React.FunctionComponent = () => {
                 <li className="ms-3">
                     <a
                         className='text-body-secondary'
-                        href='https://www.google.com.br/'
+                        href='https://www.instagram.com/mateus.cpp/'
                     >
                         <span
                             className='bi bi-instagram'
