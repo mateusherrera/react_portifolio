@@ -3,7 +3,7 @@ import React from 'react';
 
 const Home: React.FunctionComponent = () => {
     return (
-        <div className="home">
+        <div>
             <h1
                 className='display-4 px-3 pt-3'
                 style={{ color: '#4c4f69' }}

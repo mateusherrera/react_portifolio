@@ -15,7 +15,7 @@ function App() {
                 <Routes>
                     <Route path='/' element={ <Home /> } />
                     <Route path='/projects' element={ <Projects /> } />
-                    <Route path='/cantact' element={ <Contact /> } />
+                    <Route path='/contact' element={ <Contact /> } />
                 </Routes>
                 <div className='row'>
                     <div className='col-12' style={{ height: '5em' }} />
