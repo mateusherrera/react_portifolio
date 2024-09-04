@@ -31,6 +31,10 @@ const Navbar: React.FunctionComponent = () => {
                     >Contatos</Link>
                 </li>
             </ul>
+            <span
+                className='text-align-end pe-4 bi bi-person-circle'
+                style={{ color: '#cdd6f4' }}
+            />
         </nav>
     );
 };
