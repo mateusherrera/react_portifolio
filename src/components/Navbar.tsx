@@ -4,7 +4,10 @@ import { Link } from 'react-router-dom';
 
 const Navbar: React.FunctionComponent = () => {
     return (
-        <nav className='navbar' style={{ backgroundColor: '#11111b' }}>
+        <nav
+            className='navbar'
+            style={{ backgroundColor: '#11111b' }}
+        >
             <ul className='nav'>
                 <li className='nav-item'>
                     <Link
